@@ -12,7 +12,6 @@ Want to see what Seedance 2.5 can make first? [▶ Watch the example films](http
 | | |
 |---|---|
 | **Lumen Hub** | <https://lumen-hub.up.railway.app> |
-| **Register for your account** | [Registration form](https://www.larkoffice.com/share/base/form/shrmyvnj5EiZm2AlPtJSDYX51gd) |
 | **Example films** | [Watch what Seedance 2.5 can make](https://mittul-demo-4.tos-ap-southeast-1.bytepluses.com/telaviv_deck/Seedance_TelAviv_Loop/index.html) |
 | **This guide** | <https://github.com/mittulmadaan/seedance-tour-tel-aviv-handson> |
 
