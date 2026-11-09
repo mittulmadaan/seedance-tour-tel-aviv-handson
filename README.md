@@ -1,4 +1,4 @@
-# Creative Models on AWS — hands-on
+# Seedance Tour Tel Aviv — hands-on
 
 In this session you make a short luxury fragrance film with BytePlus models in
 **Lumen Hub**: three pictures with **Seedream 5.0**, then a 24-second video
@@ -6,11 +6,15 @@ with **Seedance 2.5** that uses those pictures as its cast, product and set.
 
 It takes about 20 minutes. You need a laptop with Chrome, Edge or Safari.
 
+Want to see what Seedance 2.5 can make first? [▶ Watch the example films](https://mittul-demo-4.tos-ap-southeast-1.bytepluses.com/telaviv_deck/Seedance_TelAviv_Loop/index.html)
+(the LAMANO "Blessed" teaser and the Seedance 2.5 launch film; turn the sound on).
+
 | | |
 |---|---|
 | **Lumen Hub** | <https://lumen-hub.up.railway.app> |
-| **Register for your account** | [Registration form](https://bytedance.sg.larkoffice.com/share/base/form/shrlgnm5y4Q7am7IHnDr4DfYtmg) |
-| **This guide** | <https://github.com/mittulmadaan/creative-models-on-aws-handson> |
+| **Register for your account** | [Registration form](https://www.larkoffice.com/share/base/form/shrmyvnj5EiZm2AlPtJSDYX51gd) |
+| **Example films** | [Watch what Seedance 2.5 can make](https://mittul-demo-4.tos-ap-southeast-1.bytepluses.com/telaviv_deck/Seedance_TelAviv_Loop/index.html) |
+| **This guide** | <https://github.com/mittulmadaan/seedance-tour-tel-aviv-handson> |
 
 <p align="center"><img src="assets/qr/qr-poster.png" width="760" alt="QR codes: 1 register, 2 open Lumen Hub, 3 this guide"></p>
 
@@ -19,7 +23,7 @@ It takes about 20 minutes. You need a laptop with Chrome, Edge or Safari.
 ## 1. Get your BytePlus account and API key
 
 1. **Register.** Scan QR code 1, or open the
-   [registration form](https://bytedance.sg.larkoffice.com/share/base/form/shrlgnm5y4Q7am7IHnDr4DfYtmg),
+   [registration form](https://www.larkoffice.com/share/base/form/shrmyvnj5EiZm2AlPtJSDYX51gd),
    and submit your details.
 2. **Check your email.** We create a BytePlus account for you and send a
    registration link. Complete the registration; **$50 of credit** is loaded
