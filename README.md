@@ -19,13 +19,10 @@ Want to see what Seedance 2.5 can make first? [▶ Watch the example films](http
 
 ## 1. Get your BytePlus account and API key
 
-1. **Register.** If you have not already, open the
-   [registration form](https://www.larkoffice.com/share/base/form/shrmyvnj5EiZm2AlPtJSDYX51gd),
-   and submit your details.
-2. **Check your email.** We create a BytePlus account for you and send a
-   registration link. Complete the registration; **$50 of credit** is loaded
-   on the account for you to test with.
-3. **Create an API key.** Sign in at
+1. **Check your email.** Once you have registered, we create a BytePlus
+   account for you and send a registration link. Complete the registration;
+   **$50 of credit** is loaded on the account for you to test with.
+2. **Create an API key.** Sign in at
    [console.byteplus.com/ark](https://console.byteplus.com/ark), open
    **API Keys**, choose **Create API Key**, and copy it. Keep it to yourself:
    anything made with it is billed to your account.
