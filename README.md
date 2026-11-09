@@ -16,13 +16,11 @@ Want to see what Seedance 2.5 can make first? [▶ Watch the example films](http
 | **Example films** | [Watch what Seedance 2.5 can make](https://mittul-demo-4.tos-ap-southeast-1.bytepluses.com/telaviv_deck/Seedance_TelAviv_Loop/index.html) |
 | **This guide** | <https://github.com/mittulmadaan/seedance-tour-tel-aviv-handson> |
 
-<p align="center"><img src="assets/qr/qr-poster.png" width="760" alt="QR codes: 1 register, 2 open Lumen Hub, 3 this guide"></p>
-
 ---
 
 ## 1. Get your BytePlus account and API key
 
-1. **Register.** Scan QR code 1, or open the
+1. **Register.** If you have not already, open the
    [registration form](https://www.larkoffice.com/share/base/form/shrmyvnj5EiZm2AlPtJSDYX51gd),
    and submit your details.
 2. **Check your email.** We create a BytePlus account for you and send a
@@ -35,7 +33,7 @@ Want to see what Seedance 2.5 can make first? [▶ Watch the example films](http
 
 ## 2. Add your key to Lumen Hub
 
-1. Open <https://lumen-hub.up.railway.app> (QR code 2).
+1. Open <https://lumen-hub.up.railway.app>.
 2. Click **Add API key** at the top right (or the gear icon). You land on
    **Settings**.
 3. Paste your key into **BytePlus API key** and click **Save & continue**.
@@ -168,8 +166,6 @@ Tobin cries out, “They’re breaking through on the left!” Mara, fierce, “
 <details>
 <summary>Files in this repo</summary>
 
-- `assets/qr/qr-poster.png`: the three QR codes on one 1920×1080 slide.
-  Single codes: `register.png`, `lumen.png`, `guide.png`.
 - `prompts/`: each prompt as a plain text file.
 - `assets/examples/`: the results from our own run of this guide.
 - `assets/screens/`: screenshots of each step.
